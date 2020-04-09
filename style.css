@@ -1,0 +1,40 @@
+.jumbotron{
+    background-image: url("green.jpg"), url("img11.jpg");
+    /* background-color: #cccccc;
+    height: 500px; */
+    background-position: center;
+    background-size: cover;
+    color: bisque;
+    text-align: center;
+  }
+  .container{
+      align-items: flex-start;
+      color: black;
+  }
+  .img-fluid{
+      width: 100% \9;
+  }
+  .card{
+      background-color: blanchedalmond;
+      text-align: center;
+      width: 100%;
+      max-width: 100%;
+  }
+  .container{
+      align-content: center;
+  }
+  input[type="create account"]
+{
+    margin-bottom: 28px;
+    width: 220px;
+    height: 32px;
+    background: black;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
